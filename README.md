@@ -1,11 +1,15 @@
 # Rat Cortex Hi-C Descriptor
 
 ## Overview
-Below are the command line and additional input files required to run the Juicer pipeline (ver. 1.6).
+Below are the command line and additional input files required to run the Juicer pipeline.
 [juicer.sh here](https://github.com/aidenlab/juicer/blob/main/CPU/juicer.sh)
 
 ---
-
+## Versions
+1. **Juicer** : 1.6
+2. **BWA** : 0.7.17 (r1188)
+3. **JDK** : openjdk 1.8.0(Java 8 update 312, 322, 372 and 412)
+   
 ## Command Line
 ```bash
 ./juicer.sh \
